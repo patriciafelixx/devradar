@@ -3,7 +3,7 @@ Aplicativo de geolocalização, que indica desenvolvedores dentro de um raio de 
 
 <!-- ![](demo.png) -->
 
-**Projeto Semana Omnistack 10 - Rocketseat**.
+**Projeto Semana Omnistack 10 - Rocketseat** [em desenvolvimento].
 
 ## Tecnologias Utilizadas
 **JavaScript** - Linguagem de programação;
